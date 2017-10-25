@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JumpingProL</string>
+    <string name="takePicture">Zrób zdjęcie</string>
+    <string name="levelBaterry">Bateria: </string>
+    <string name="download">Download</string>
+    <string name="mute">Mute</string>
+    <string name="przycisk_1_go_ahead">Przycisk 1 Go Ahead</string>
+    <string name="przycisk_takeaction2">Przycisk TakeAction2</string>
+    <string name="audio">audio:</string>
+    <string name="xx">XX%</string>
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libARUpdater-3.10.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/06d7863ee4f04541a191fe46f24f2c274bf5adbd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/06d7863ee4f04541a191fe46f24f2c274bf5adbd/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARUpdater/3.10.1/9225431a71add9c7ef9b3c8c80bbfac2d3641503/libARUpdater-3.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
